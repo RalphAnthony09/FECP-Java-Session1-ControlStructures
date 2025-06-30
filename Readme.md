@@ -1,4 +1,4 @@
-# Lab 1: Celsius to Fahrenheit Converter
+# Lab 2 Membership Calculator
 
 **Name:** Ralph Anthony R. Rafael </br>
 **Project Title:** Lab 2: Membership Calculator </br>
